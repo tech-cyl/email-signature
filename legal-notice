@@ -1,0 +1,60 @@
+<style type="text/css">
+    .notice {
+        font-family: 'Inria Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        color: #002112;
+    }
+
+    .notice.title {
+        font-weight: bold;
+        font-size: 10pt;
+        line-height: 12pt;
+    }
+
+    .notice.body {
+        font-size: 8pt;
+        line-height: 10pt;
+    }
+</style>
+<table class="rbcc footer__main" style="border: 0; cellpadding: 0; cellspacing: 0;" border="0" cellpadding="0"
+    cellspacing="0" width="100%">
+    <tbody bgcolor="#ffffff">
+        <tr>
+            <td class="footer__main__signature" align="left" style="align: left;">
+                <p class="notice title">Aviso de Confidencialidad</p>
+                <p class="notice body">El contenido de este correo electrónico y
+                    cualquier archivo
+                    vinculado o adjunto son confidenciales. Están destinados
+                    únicamente al destinatario(s) nombrado(s). La copia, revisión,
+                    uso, divulgación y/o distribución de dicha información
+                    confidencial sin la autorización escrita de CYL - Consultoría y
+                    Logística Soluciones Integrales S.A.S. está prohibida. Si ha
+                    recibido este correo electrónico por error, notifique al
+                    remitente de inmediato y no divulgue el contenido a nadie, ni
+                    haga copias del mismo. Al recibir este correo electrónico, usted
+                    reconoce y acepta que en caso de incumplimiento por su parte y/o
+                    la de sus representantes con los términos, CYL - Consultoría y
+                    Logística Soluciones Integrales S.A.S. tendrá derecho a los
+                    daños y perjuicios causados por ello.</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="footer__main__signature" align="left" style="align: left;">
+                <p class="notice title">Confidentiality Notice</p>
+                <p class="notice body">The contents of this e-mail and any linked or
+                    attached files are
+                    confidential. They are intended solely for the named
+                    individual(s) to whom they are addressed. Copying, reviewing,
+                    using, disclosing and/or distributing such confidential
+                    information without the written authorization of CYL -
+                    Consultoría y Logística Soluciones Integrales S.A.S. is
+                    prohibited. If you have received this e-mail in error, please
+                    notify the sender immediately and do not disclose the contents
+                    to anyone or make copies of it. By receiving this e-mail, you
+                    acknowledge and agree that in the event of any breach by you
+                    and/or your representatives under the terms, CYL - Consultoría y
+                    Logística Soluciones Integrales S.A.S. shall be entitled to the
+                    damages caused thereby.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
